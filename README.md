@@ -4,11 +4,11 @@ Hi 👋 My name is Teresa Lobo
 Machine Learning engineer
 -------------------------
 
-Teaching computers to see developing efficient computer vision solutions.
+Teaching computers to see by developing efficient computer vision solutions.
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [loboateresa@gmail.com](mailto:loboateresa@gmail.com)
-* 🚀  I'm currently working on [Sngular](http://www.sngular.com)
+* 🚀  I'm currently working at [Sngular](http://www.sngular.com)
 * 🧠  I'm learning PySpark
 
 ### Skills
