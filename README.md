@@ -4,12 +4,14 @@ Hi 👋 My name is Teresa Lobo
 Machine Learning engineer
 -------------------------
 
-Teaching computers to see by developing efficient computer vision solutions.
+Welcome to my profile! 👋 I am a machine learning engineer with years of experience in developing and implementing state-of-the-art AI solutions. With a B. Sc. in Physics and a M. Sc. in Biomedical Engineering, my expertise lies in deep learning models, machine learning, computer vision and LLMs. 
+
+I have worked with top companies such as Sngular (technological consulting) and Naturgy (top 3 energy producer and supplier in Spain and Latin America).
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [loboateresa@gmail.com](mailto:loboateresa@gmail.com)
 * 🚀  I'm currently working at [Sngular](http://www.sngular.com)
-* 🧠  I'm learning PySpark
+* 🧠  I'm learning all the time
 
 ### Skills
 
