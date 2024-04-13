@@ -10,7 +10,7 @@ I have worked with top companies such as Sngular (technological consulting) and 
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [loboateresa@gmail.com](mailto:loboateresa@gmail.com)
-* 🚀  I'm currently working at [Sngular](http://www.sngular.com)
+* 🚀  I'm currently working at [Naturgy](https://www.naturgy.com/)
 * 🧠  I'm learning all the time
 
 ### Skills
