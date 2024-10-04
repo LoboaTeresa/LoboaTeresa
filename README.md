@@ -8,7 +8,7 @@ Welcome to my profile! 👋 I am a machine learning engineer with years of exper
 
 I have worked with top companies such as [Sngular](https://www.sngular.com/) (technological consulting) and [Naturgy](https://www.naturgy.com/) (top 3 energy producer and supplier in Spain and Latin America).
 
-* 🌍  I'm based in Madrid
+* 🌍  I'm based in Chicago
 * ✉️  You can contact me at [loboateresa@gmail.com](mailto:loboateresa@gmail.com)
 * 🚀  I'm currently working at [Naturgy](https://www.naturgy.com/)
 * 🧠  I'm learning all the time
