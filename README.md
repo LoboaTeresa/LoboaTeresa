@@ -10,7 +10,7 @@ I have worked with top companies such as [Sngular](https://www.sngular.com/) (te
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [loboateresa@gmail.com](mailto:loboateresa@gmail.com)
-* 🚀  I'm currently working at [Naturgy](https://www.naturgy.com/)
+* 🚀  I'm currently working at [Fit:match](https://www.fitmatch.ai/)
 * 🧠  I'm learning all the time
 
 ### Skills
